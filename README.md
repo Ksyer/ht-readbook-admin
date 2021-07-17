@@ -15,7 +15,7 @@ yarn install --registry=https://registry.npm.taobao.org
 yarn dev 
 ```
 
-启动完成后会自动打开浏览器访问 http://localhost:9527，正常看到页面就代表操作成功了。
+启动完成后会自动打开浏览器访问 <http://localhost:9527>，正常看到页面就代表操作成功了。
 
 ## 此存储库中的版本
 
