@@ -7,13 +7,15 @@
 ## 安装
 
 ```sh
-# 建议不要用 cnpm 安装 会有各种诡异的bug 可以通过如下操作解决 npm 下载速度慢的问题
+# 建议不要用 cnpm 安装会有各种诡异的 bug，可以通过如下操作解决 npm 下载速度慢的问题
 npm install --registry=https://registry.npm.taobao.org
 # 或者使用 yarn 方式
 yarn install --registry=https://registry.npm.taobao.org
 # 开发中的调试运行
 yarn dev 
 ```
+
+启动完成后会自动打开浏览器访问 http://localhost:9527，正常看到页面就代表操作成功了。
 
 ## 此存储库中的版本
 
