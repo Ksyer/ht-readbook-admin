@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vue Element Admin',
+  title: '华树读书后台管理',
 
   /**
    * @type {boolean} true | false
